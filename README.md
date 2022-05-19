@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Pinocchio01
-- 👀 I’m interested in scientific and applied research.
+- 👀 I’m interested in applied science, AI software programming and FPGA.
 - 🌱 I’m currently learning Electromobility at the university of Stuttgart.
-- 💞️ I’m looking to collaborate on Reinforcement Learning on BMS.
+- 💞️ I’m looking to collaborate on NMR experiment with PYNQ.
 - 📫 How to reach me per E-mail: pychao_abc@163.com. Please notify me with your collaborating intention.
+- 🎉 Hope to learn more and share more with you!
 
 <!---
 Pinocchio01/Pinocchio01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
